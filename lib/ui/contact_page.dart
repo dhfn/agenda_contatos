@@ -132,7 +132,7 @@ class _ContactPageState extends State<ContactPage> {
                 child: Text("Cancelar"),
               ),
               FlatButton(
-                child: ,
+                child: Text("Confirmar"),
               )
             ],
           );
